@@ -1,0 +1,1 @@
+Calculadora web interactiva con operaciones avanzadas (potencia, raíz, porcentaje), efectos de vibración visual, entrada por teclado físico y cambio en el diseño. Inicialmente, la calculadora realizada solo tenía las funcionalidades de ingresar los numeros y realizar las operaciones de sumar, restar, multiplicar y dividir.
